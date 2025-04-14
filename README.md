@@ -5,7 +5,7 @@ walkthrough video: https://app.screencastify.com/v3/watch/OnTpC3E689Cml96jPPMA
 
 ---
 
-## 🚀 Features
+## Features
 
 -  Start a timed or untimed quiz
 -  Multiple-choice questions from a backend API
