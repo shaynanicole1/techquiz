@@ -1,0 +1,9 @@
+[
+    {
+      "id": 1,
+      "question": "What is CSS used for?",
+      "options": ["Styling", "Markup", "Database"],
+      "answer": "Styling"
+    }
+  ]
+  
